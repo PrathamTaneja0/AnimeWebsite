@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1, h3 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #recent-posts {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #recent-posts li {
+    margin-bottom: 10px;
+  }
+  
+  #post-container {
+    margin-top: 20px;
+  }
+  
+  
